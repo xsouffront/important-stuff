@@ -1,0 +1,6 @@
+print('ADDING BOT')
+print('Follow my directons.')
+x=input('Pick a number: ')
+y=input('Pick another number:')
+result= print(x+y)
+print(result)
